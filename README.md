@@ -8,4 +8,4 @@ This is what you end up with. I chose to use hex colors, you can edit those to y
 And this is the other setting from the different setting branch 
 
 
-file:///home/fanis/Pictures/Screenshot%20from%202022-02-07%2018-09-32.png![image](https://user-images.githubusercontent.com/82645523/152826719-aa3be8b1-93c0-42d7-9f4b-c92b68eadb9b.png)
+[image](https://user-images.githubusercontent.com/82645523/152826719-aa3be8b1-93c0-42d7-9f4b-c92b68eadb9b.png)
