@@ -1,0 +1,46 @@
+add_newline = false
+
+
+[character] 
+success_symbol = "[╚═{](#0080FF)"
+error_symbol = "[╚](#0080FF)[𝗡 𝗢 ](#660000)[═{](#0080FF)"
+
+
+[package]
+
+disabled = true
+
+
+[username]
+
+format = "[╔════{](#0080FF)[USER:](#FFFF00)[$user](#FFFF00)[}═{](#0080FF)"
+disabled = false
+show_always = true
+
+
+[directory]
+
+truncation_length = 10
+truncation_symbol = ""
+style = "(#6600CC)"
+
+
+[git_branch]
+
+always_show_remote = true
+format = "on [$symbol$branch](#FF4B00) "
+symbol = " "
+disabled = false
+
+
+[git_status]
+conflicted = '[🏳\($count\)](red)'
+ahead = '[🏎\($count\)](white)'
+behind = '[😰\($count\)](white)'
+diverged = '[😵\($count\)](white)'
+untracked = '[❔\($count\)](white)'
+stashed = '[📦\($count\)](white)'
+modified = '[📝\($count\)](white)'
+staged = '[✅\($count\)](green)'
+renamed = '[👅\($count\)](white)'
+deleted = '[🗑\($count\)](white)'
